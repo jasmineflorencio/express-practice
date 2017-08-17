@@ -1,0 +1,14 @@
+body {
+  background: #d0d0e1;
+  color: #32324e;
+}
+
+h1 {
+  text-align: center;
+}
+
+img {
+  display: block;
+  margin: auto;
+  width: 50%
+}
